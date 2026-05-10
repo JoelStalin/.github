@@ -1,2 +1,4 @@
 # Joel Stalin Martinez Espinal
-CEO @ GetUpSoft
+CEO @ GetUpSoft  | Senior Software Engineer
+---
+Professional Profile
